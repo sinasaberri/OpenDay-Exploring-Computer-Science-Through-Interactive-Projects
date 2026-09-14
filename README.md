@@ -1,0 +1,2 @@
+# OpenDay — Exploring Computer Science Through Interactive Projects
+A collection of interactive projects created for OpenDay to showcase what can be built with computer science, programming, and technology.  The projects explore different areas of computing through hands-on and visual experiences, from computer vision and automation to interactive applications and other creative experiments.  The goal is simple: to show that computer science is not just about writing code — it's about turning ideas into things that work
