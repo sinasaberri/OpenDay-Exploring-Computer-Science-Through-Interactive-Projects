@@ -1,0 +1,12 @@
+# Verified together on Python 3.12 (also works on 3.9-3.12).
+# MediaPipe does not yet ship wheels for Python 3.13+.
+
+numpy==1.26.4
+# opencv-contrib-python (not opencv-python) because MediaPipe depends on it;
+# installing both duplicates the cv2 package and can break bundled data files.
+opencv-contrib-python==4.11.0.86
+mediapipe==0.10.21
+pygame==2.6.1
+Pillow==11.1.0
+arabic-reshaper==3.0.0
+python-bidi==0.6.6
